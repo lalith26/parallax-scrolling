@@ -113,3 +113,11 @@ footer{
   background-color: #212121;
   color: white;
 }
+
+.icon {
+  color:#fff;
+}
+.icon:hover {
+  opacity:.8;
+  color:#fff
+}
