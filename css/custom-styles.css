@@ -1,0 +1,55 @@
+.white {
+  color: white;
+}
+
+.table-section {
+  display: table;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.vert-text {
+  color: #fff;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  opacity: .9;
+}
+
+.vert-text h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 5.5em;
+  font-weight: 700;
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3)
+}
+
+.vert-text h2 {
+  padding: 0;
+  margin: 0;
+  font-size: 4.5em;
+  font-weight: 500;
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3)
+}
+
+.dp {
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  border: 3px solid #fff;
+}
+
+.profile-description {
+  font-size: 2.5em;
+  font-weight: 400;
+  opacity: 0.9;
+}
+
+#work {
+  background-color: #424242;
+}
+
+.work-caption {
+  color: white;
+}
